@@ -7,4 +7,6 @@
     padding: 10px;
     font-weight: bold;
     cursor: pointer;
+    border: 0px;
+    border-radius: 5px;
 }
