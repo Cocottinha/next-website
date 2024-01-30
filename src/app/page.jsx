@@ -1,6 +1,6 @@
 /*import Navbar from "@/components/navbar";*/
 
-const Home = () => {
+const Home = () => { 
   return <div>Home Page</div>;
 };
 
