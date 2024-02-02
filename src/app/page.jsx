@@ -6,7 +6,8 @@ const Home = () => {
     <div className={styles.textbox}>
       <h1 className={styles.title}>Nº 1 do Brasil</h1>
       <p className={styles.desc}>
-        Lorem Ipsum, dorem!
+        1º Equipe Nacional a utilizar e dominar a tecnologia de MA-XRF!<br/> Sediado no Campus IFRJ-Paracambi!<br/>
+        A Equipe do Laboratório Móvel se mostra influente e uma potência na área das análises físico-químicas de obras de arte!
       </p>
       <div className={styles.buttons}>
         <button className={styles.button}>Learn More</button>
@@ -17,7 +18,7 @@ const Home = () => {
       </div>
     </div>
     <div className={styles.imgcontainer}>
-      <Image src="/hero.gif" alt="" fill className={styles.heroImg}></Image>
+      <Image src="/lbmovel.jpg" alt="" fill className={styles.heroImg}></Image>
     </div>
   </div>;
 };
