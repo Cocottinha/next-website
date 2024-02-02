@@ -1,6 +1,10 @@
+import styles from "@/components/footer/footer.module.css"
 const Footer = () => {
     return(
-        <div>Footer</div>
+        <div className={styles.container}>
+            <div className={styles.logo}>Lab.Move</div>
+            <div className={styles.text}>Laboratório Móvel. All rights reserved.</div>
+        </div>
     )
 }
 export default Footer
