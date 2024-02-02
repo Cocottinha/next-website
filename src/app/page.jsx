@@ -4,7 +4,7 @@ import Image from "next/image";
 const Home = () => { 
   return <div className={styles.container}>
     <div className={styles.textbox}>
-      <h1 className={styles.title}>Nº 1 do Brasil</h1>
+      <h1 className={styles.title}>Único do Brasil!</h1>
       <p className={styles.desc}>
         1º Equipe Nacional a utilizar e dominar a tecnologia de MA-XRF!<br/> Sediado no Campus IFRJ-Paracambi!<br/>
         A Equipe do Laboratório Móvel se mostra influente e uma potência na área das análises físico-químicas de obras de arte!
